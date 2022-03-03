@@ -1,0 +1,6 @@
+Simple command Linux
+
+1.ps axww
+2.whoami
+3.man command (halaman manual) 
+4.
